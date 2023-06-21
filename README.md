@@ -23,12 +23,13 @@ To get started with the Traffic Sign Detection project, please follow these step
    git clone https://github.com/Asrar-Ahammad/Traffic-Sign-detection.git
    
 2. Set up the required Python environment with the necessary dependencies. It is recommended to use a virtual environment:
-  ```shell
-  cd Traffic-Sign-detection
-  python -m venv env
-  source env/bin/activate  # For Unix/Linux
-  env\Scripts\activate  # For Windows
-  pip install -r requirements.txt
+     ```shell
+     cd Traffic-Sign-detection
+     python -m venv env
+     source env/bin/activate  # For Unix/Linux
+     env\Scripts\activate  # For Windows
+     pip install -r requirements.txt
+  
 3. Run the notebooks sequentially to execute the code and reproduce the results.
 
 
